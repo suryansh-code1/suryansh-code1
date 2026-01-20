@@ -128,7 +128,7 @@ A robust platform connecting students with career opportunities:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryanshbajpai)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryanshbajpai11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suryanshbajpai)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suryansh-code1)
 
 
 </div>
@@ -139,7 +139,7 @@ A robust platform connecting students with career opportunities:
   
 ### 💡 *\"Code is like humor. When you have to explain it, it's bad.\"* – Cory House
 
-⭐️ From [suryanshbajpai](https://github.com/suryanshbajpai)
+⭐️ From [suryanshbajpai](https://github.com/suryansh-code1)
 
 </div>
 "
