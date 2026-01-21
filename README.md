@@ -80,7 +80,7 @@ A comprehensive full-stack healthcare solution featuring:
 ---
 
 ### 🎓 Placement Cell Website
-**Tech Stack:** React | Node.js | MongoDB | Express
+**Tech Stack:** HTML | PHP | JAVASCRIPT | MYSQL | CSS
 
 A robust platform connecting students with career opportunities:
 - Supports **4,000+ students** and **50+ recruiters**
